@@ -1,0 +1,27 @@
+{"level":"error","message":"RangeErroroptions.port should be >= 0 and < 65536. Received NaN.","timestamp":"2024-07-18T09:08:41.529Z"}
+{"level":"error","message":"RangeErroroptions.port should be >= 0 and < 65536. Received NaN.","timestamp":"2024-07-18T09:09:01.956Z"}
+{"level":"error","message":"RangeErroroptions.port should be >= 0 and < 65536. Received NaN.","timestamp":"2024-07-18T09:09:17.295Z"}
+{"level":"error","message":"RangeErroroptions.port should be >= 0 and < 65536. Received NaN.","timestamp":"2024-07-18T09:09:21.243Z"}
+{"level":"error","message":"RangeErroroptions.port should be >= 0 and < 65536. Received NaN.","timestamp":"2024-07-18T09:09:26.957Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:25:26.160Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:27:14.194Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:27:57.825Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:28:11.179Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:28:48.102Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:31:11.752Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:31:20.452Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:32:10.811Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:32:27.580Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:32:38.068Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:33:05.445Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:33:56.412Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:36:02.941Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:36:24.804Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:37:03.986Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:37:15.448Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:42:52.123Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:43:29.524Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T06:57:04.328Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T15:54:20.711Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-30T15:55:08.098Z"}
+{"level":"error","message":"Redis connection failed","timestamp":"2024-07-31T11:57:45.666Z"}

@@ -1,0 +1,1280 @@
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T08:58:14.933Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T08:58:14.949Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T08:58:49.041Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T08:58:49.064Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T08:59:06.845Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T08:59:06.863Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T08:59:36.248Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T08:59:36.264Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T08:59:42.111Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T08:59:42.127Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:00:20.579Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:00:20.593Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:02:14.296Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:02:14.310Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:03:10.973Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:03:10.994Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:03:25.578Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:03:25.596Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:04:13.389Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:04:13.405Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:05:54.807Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:05:54.825Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:07:18.186Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:07:18.202Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:10:50.637Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:10:50.655Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:10:54.199Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:10:54.214Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:11:37.252Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:11:37.267Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:12:00.422Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:12:00.435Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:12:08.944Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:12:08.965Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:12:39.811Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:12:39.823Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:12:56.433Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:12:56.448Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:13:09.833Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:13:09.849Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:13:29.980Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:13:29.998Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:13:38.331Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:13:38.345Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:14:29.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:14:29.029Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:15:24.090Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:15:24.106Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:18:36.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:18:36.030Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:19:11.255Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:19:11.279Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T09:22:39.778Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T09:22:39.793Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:37:54.039Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:37:54.061Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:38:29.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:38:29.539Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:39:15.062Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:39:15.081Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:45:42.450Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:45:42.476Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:47:32.088Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:47:32.104Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:48:15.385Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:48:15.407Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:48:20.492Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:48:20.507Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:48:41.012Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:48:41.035Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:48:57.554Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:48:57.570Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:49:32.846Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:49:32.873Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:50:02.302Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:50:02.318Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:53:03.049Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:53:03.063Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:53:04.223Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:53:04.242Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:53:06.927Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:53:06.945Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:53:18.024Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:53:18.040Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:54:51.291Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:54:51.306Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:54:57.359Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:54:57.372Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:56:59.444Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:56:59.447Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:57:09.460Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:57:09.462Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:57:32.302Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:57:32.305Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T10:57:59.950Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T10:57:59.953Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:00:12.988Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:00:12.991Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:00:13.004Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:00:23.795Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:00:23.797Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:00:23.808Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:00:27.527Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:00:27.531Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:00:27.542Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:00:51.421Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:00:51.424Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:00:51.436Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:01:01.211Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:01:01.215Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:01:01.235Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:05:25.510Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:05:25.513Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:05:25.524Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:05:51.834Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:05:51.837Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:05:51.848Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:06:00.452Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:06:00.455Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:06:00.470Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:06:18.110Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:06:18.114Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:06:18.124Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:06:29.445Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:06:29.447Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:06:29.462Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:08:07.098Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:08:07.102Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:08:07.113Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:08:24.820Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:08:24.823Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:08:24.835Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:08:28.922Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:08:28.927Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:08:28.941Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:08:31.111Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:08:31.115Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:08:31.132Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:08:51.275Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:08:51.279Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:08:51.293Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:09:12.646Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:09:12.649Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:09:12.664Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:09:55.433Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:09:55.437Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:09:55.448Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:10:23.360Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:10:23.363Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:10:23.378Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:10:35.690Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:10:35.693Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:10:35.706Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-19T11:10:47.454Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-19T11:10:47.457Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-19T11:10:47.470Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:28:38.728Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:28:38.732Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:28:38.762Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:29:29.982Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:29:29.989Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:29:30.032Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:29:39.144Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:29:39.151Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:29:39.177Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:29:56.704Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:29:56.708Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:29:56.732Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:30:20.433Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:30:20.437Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:30:20.451Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:30:22.947Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:30:22.951Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:30:22.972Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:32:23.344Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:32:23.347Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:32:23.372Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:34:14.418Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:34:14.421Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:34:14.433Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:34:38.328Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:34:38.331Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:34:38.345Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:34:47.537Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:34:47.540Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:34:47.555Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:35:42.773Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:35:42.776Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:35:42.792Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:36:12.317Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:36:12.324Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:36:12.341Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:37:27.139Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:37:27.143Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:37:27.168Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:40:18.867Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:40:18.871Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:40:18.893Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:40:29.658Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:40:29.661Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:40:29.682Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:40:39.697Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:40:39.700Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:40:39.721Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:41:03.285Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:41:03.288Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:41:03.299Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:41:46.347Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:41:46.351Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:41:46.364Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:41:54.518Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:41:54.522Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:41:54.541Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:42:04.377Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:42:04.380Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:42:04.392Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:44:11.644Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:44:11.647Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:44:11.660Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:44:40.957Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:44:40.960Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:44:40.977Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:45:21.013Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:45:21.016Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:45:21.029Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:46:13.654Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:46:13.657Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:46:13.671Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:46:19.537Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:46:19.540Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:46:19.553Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:46:25.912Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:46:25.916Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:46:25.930Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:46:28.030Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:46:28.034Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:46:28.058Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:48:45.942Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:48:45.945Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:48:45.957Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:48:48.938Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:48:48.940Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:48:48.962Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:49:12.652Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:49:12.655Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:49:12.670Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:49:28.062Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:49:28.067Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:49:28.085Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:50:28.669Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:50:28.672Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:50:28.690Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:51:11.375Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:51:11.378Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:51:11.395Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:52:54.321Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:52:54.325Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:52:54.342Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:54:05.984Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:54:05.988Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:54:06.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:54:55.998Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:54:56.002Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:54:56.014Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:55:11.630Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:55:11.633Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:55:11.647Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:56:10.574Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:56:10.578Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:56:10.590Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:57:36.079Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:57:36.082Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:57:36.095Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:58:41.733Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:58:41.736Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:58:41.748Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:58:54.402Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:58:54.405Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:58:54.422Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T08:59:01.338Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T08:59:01.344Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T08:59:01.361Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:00:46.228Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:00:46.232Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:00:46.253Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:01:56.192Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:01:56.194Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:01:56.208Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:01:58.454Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:01:58.458Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:01:58.475Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:05:22.831Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:05:22.833Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:05:22.847Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:05:29.587Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:05:29.590Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:05:29.617Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:06:27.029Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:06:27.033Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:06:27.045Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:06:46.483Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:06:46.486Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:06:46.503Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:00.245Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:00.248Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:00.263Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:06.279Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:06.283Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:06.305Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:10.248Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:10.252Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:10.265Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:33.576Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:33.579Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:33.590Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:41.290Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:41.294Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:41.318Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:07:57.450Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:07:57.453Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:07:57.467Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:09:45.727Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:09:45.730Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:09:45.746Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:09:59.988Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:09:59.992Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:10:00.006Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:10:01.385Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:10:01.388Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:10:01.408Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:11:12.958Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:11:12.961Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:11:12.984Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:11:45.094Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:11:45.097Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:11:45.116Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:14:10.701Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:14:10.705Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:14:10.718Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:14:16.594Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:14:16.599Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:14:16.615Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:18:25.204Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:18:25.208Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:18:25.225Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:19:59.466Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:19:59.469Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:19:59.484Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:20:34.398Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:20:34.401Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:20:34.414Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:21:13.366Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:21:13.370Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:21:13.383Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:22:04.565Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:22:04.569Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:22:04.587Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:31:03.204Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:31:03.207Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:31:03.227Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:31:41.763Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:31:41.767Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:31:41.792Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:32:07.161Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:32:07.164Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:32:07.184Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:33:38.967Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:33:38.970Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:33:38.992Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:35:05.107Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:35:05.112Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:35:05.141Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:36:07.483Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:36:07.486Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:36:07.508Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:37:13.190Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:37:13.194Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:37:13.216Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:37:41.278Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:37:41.280Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:37:41.293Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:38:36.438Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:38:36.440Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:38:36.461Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:39:55.900Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:39:55.903Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:39:55.919Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:40:23.652Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:40:23.656Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:40:23.681Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:41:10.575Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:41:10.577Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:41:10.599Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:46:25.284Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:46:25.287Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:46:25.312Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:46:44.189Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:46:44.192Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:46:44.213Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:50:01.981Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:50:01.984Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:50:02.004Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:52:50.799Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:52:50.802Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:52:50.823Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T09:54:02.296Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T09:54:02.299Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T09:54:02.322Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:12:51.093Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:12:51.096Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:12:51.124Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:13:29.193Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:13:29.196Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:13:29.222Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:14:48.088Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:14:48.092Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:14:48.117Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:15:05.452Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:15:05.455Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:15:05.477Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:17:47.134Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:17:47.139Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:17:47.160Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:17:52.330Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:17:52.335Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:17:52.358Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:18:23.112Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:18:23.116Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:18:23.137Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:20:06.974Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:20:06.977Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:20:06.998Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:20:27.266Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:20:27.270Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:20:27.294Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:20:43.791Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:20:43.794Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:20:43.816Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:20:52.435Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:20:52.439Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:20:52.465Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:28:54.081Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:28:54.089Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:28:54.115Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:30:22.077Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:30:22.081Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:30:22.097Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:31:21.757Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:31:21.761Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:31:21.783Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:31:27.491Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:31:27.495Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:31:27.521Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:32:12.392Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:32:12.396Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:32:12.418Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:33:31.889Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:33:31.892Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:33:31.914Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:33:40.942Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:33:40.948Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:33:40.970Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:41:06.352Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:41:06.355Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:41:06.374Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:41:54.810Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:41:54.814Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:41:54.839Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:42:39.734Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:42:39.737Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:42:39.769Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:43:44.524Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:43:44.527Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:43:44.547Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:44:06.764Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:44:06.767Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:44:06.791Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:44:39.405Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:44:39.408Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:44:39.433Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:45:47.217Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:45:47.219Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:45:47.244Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:46:28.393Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:46:28.396Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:46:28.414Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:46:38.811Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:46:38.814Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:46:38.833Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:46:40.077Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:46:40.080Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:46:40.100Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:46:47.381Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:46:47.384Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:46:47.411Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:47:02.727Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:47:02.731Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:47:02.752Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:47:06.573Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:47:06.576Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:47:06.596Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:47:08.782Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:47:08.785Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:47:08.803Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:47:54.680Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:47:54.684Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:47:54.706Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:48:06.111Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:48:06.115Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:48:06.142Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:48:11.295Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:48:11.298Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:48:11.322Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:49:04.331Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:49:04.334Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:49:04.360Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:49:55.926Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:49:55.929Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:49:55.948Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:50:48.986Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:50:48.990Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:50:49.021Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:52:27.768Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:52:27.771Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:52:27.790Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:52:49.987Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:52:49.990Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:52:50.015Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T10:54:04.314Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T10:54:04.317Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T10:54:04.344Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:00:10.629Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:00:10.632Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:00:10.653Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:00:39.869Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:00:39.872Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:00:39.888Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:01:22.934Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:01:22.936Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:01:22.954Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:01:38.798Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:01:38.801Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:01:38.815Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:02:08.436Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:02:08.438Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:02:08.455Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:02:22.375Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:02:22.378Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:02:22.396Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:02:42.121Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:02:42.125Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:02:42.151Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-24T11:03:31.977Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-24T11:03:31.981Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-24T11:03:32.009Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:10:39.686Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:10:39.689Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:10:39.717Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:11:20.471Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:11:20.475Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:11:20.498Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:11:58.915Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:11:58.918Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:11:58.946Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:12:35.901Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:12:35.905Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:12:35.924Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:14:34.482Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:14:34.487Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:14:34.515Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:14:53.247Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:14:53.250Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:14:53.270Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:15:55.401Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:15:55.405Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:15:55.428Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:17:07.360Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:17:07.369Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:17:07.408Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:17:41.815Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:17:41.818Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:17:41.835Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:18:12.506Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:18:12.509Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:18:12.531Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:18:45.854Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:18:45.856Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:18:45.880Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T04:19:19.845Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T04:19:19.850Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T04:19:19.878Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:23:09.347Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:23:09.350Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:23:09.375Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:25:00.361Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:25:00.366Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:25:00.394Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:26:00.674Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:26:00.678Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:26:00.700Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:26:40.764Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:26:40.768Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:26:40.791Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:26:54.142Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:26:54.146Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:26:54.169Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:27:21.919Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:27:21.922Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:27:21.940Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:27:32.392Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:27:32.395Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:27:32.411Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:28:05.569Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:28:05.572Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:28:05.600Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:28:34.832Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:28:34.836Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:28:34.863Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:28:42.746Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:28:42.749Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:28:42.764Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:29:11.163Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:29:11.165Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:29:11.200Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:30:00.746Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:30:00.751Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:30:00.782Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:30:39.323Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:30:39.326Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:30:39.345Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:31:02.036Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:31:02.038Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:31:02.057Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:35:32.965Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:35:32.968Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:35:32.982Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:35:55.767Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:35:55.770Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:35:55.792Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:43:38.506Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:43:38.509Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:43:38.535Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:45:18.178Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:45:18.182Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:45:18.208Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:45:25.625Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:45:25.629Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:45:25.653Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:57:20.990Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:57:20.992Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:57:21.005Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:57:35.721Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:57:35.724Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:57:35.736Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T11:57:41.782Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T11:57:41.784Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T11:57:41.805Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:50:02.595Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:50:02.598Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:50:02.614Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:51:04.701Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:51:04.705Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:51:04.726Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:51:33.332Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:51:33.336Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:51:33.357Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:53:06.261Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:53:06.265Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:53:06.293Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:53:14.158Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:53:14.163Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:53:14.205Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:54:00.302Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:54:00.306Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:54:00.337Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:54:13.386Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:54:13.391Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:54:13.420Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:55:58.732Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:55:58.735Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:55:58.754Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:56:04.904Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:56:04.907Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:56:04.927Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:56:39.420Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:56:39.423Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:56:39.444Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:56:45.775Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:56:45.779Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:56:45.800Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:57:03.883Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:57:03.889Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:57:03.926Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:57:47.212Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:57:47.216Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:57:47.241Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T12:58:52.644Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T12:58:52.648Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T12:58:52.676Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-25T13:16:43.559Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-25T13:16:43.562Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-25T13:16:43.586Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-26T08:52:46.294Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-26T08:52:46.297Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-26T08:52:46.328Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-26T08:55:01.625Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-26T08:55:01.627Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-26T08:55:01.658Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-26T08:55:51.924Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-26T08:55:51.928Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-26T08:55:51.952Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-26T08:56:07.489Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-26T08:56:07.493Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-26T08:56:07.511Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:14:57.218Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:14:57.221Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:14:57.245Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:25:15.916Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:25:15.919Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:25:15.940Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:25:56.003Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:25:56.006Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:25:56.024Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:26:04.148Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:26:04.152Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:26:04.174Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:26:15.381Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:26:15.386Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:26:15.413Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:26:57.084Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:26:57.087Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:26:57.115Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:27:58.743Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:27:58.746Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:27:58.761Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:29:19.275Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:29:19.278Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:29:19.304Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:29:29.769Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:29:29.773Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:29:29.800Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:29:56.673Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:29:56.677Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:29:56.696Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:31:26.208Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:31:26.215Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:31:26.235Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:31:26.240Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:36:49.429Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:36:49.438Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:36:49.463Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:36:49.472Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:36:51.598Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:36:51.606Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:36:51.633Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:36:51.645Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:37:10.124Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:37:10.131Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:37:10.148Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:37:10.155Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:38:01.972Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:38:01.978Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:38:01.997Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:38:02.004Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:38:23.518Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:38:23.527Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:38:23.547Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:38:23.553Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:38:29.020Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:38:29.027Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:38:29.052Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:38:29.059Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:46:15.437Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:46:15.444Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:46:15.463Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:46:15.469Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:48:16.345Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:48:16.352Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:48:16.382Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:48:16.392Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:48:48.071Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:48:48.078Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:48:48.096Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:48:48.102Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:49:10.547Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:49:10.556Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:49:10.570Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:49:10.577Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:50:53.988Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:50:53.994Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:50:54.012Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:51:10.103Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:51:10.110Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:51:10.129Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:51:29.311Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:51:29.317Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:51:29.334Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:51:29.339Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:51:36.242Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:51:36.250Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:51:36.268Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:51:36.276Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:51:52.874Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:51:52.882Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:51:52.898Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:51:52.904Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:51:57.686Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:51:57.693Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:51:57.718Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:51:57.728Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:52:01.505Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:52:01.516Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:52:01.534Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:52:01.543Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:52:05.186Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:52:05.197Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:52:05.220Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:52:05.227Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:52:15.226Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:52:15.233Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:52:15.255Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:52:15.261Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:52:49.438Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:52:49.442Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:52:49.463Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:52:49.473Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:53:19.651Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:53:19.654Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:53:19.668Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:53:19.672Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:53:32.351Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:53:32.355Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:53:32.372Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:53:32.379Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:53:48.321Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:53:48.324Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:53:48.341Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:53:48.348Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:54:00.308Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:54:00.316Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:54:00.354Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:54:00.365Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:54:30.959Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:54:30.962Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:54:30.983Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:54:30.993Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:55:01.915Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:55:01.919Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:55:01.940Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:55:01.947Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T06:59:55.089Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T06:59:55.092Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T06:59:55.115Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T06:59:55.124Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T07:00:31.822Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T07:00:31.826Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T07:00:31.846Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T07:00:31.852Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:05:03.331Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:05:03.335Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:05:03.349Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:05:03.357Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:05:37.723Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:05:37.727Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:05:37.745Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:05:37.753Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:06:20.452Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:06:20.455Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:06:20.477Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:06:20.487Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:07:01.864Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:07:01.869Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:07:01.888Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:07:01.895Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:09:14.985Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:09:14.988Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:09:15.007Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:09:15.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:10:05.306Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:10:05.310Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:10:05.328Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:10:05.335Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:10:36.866Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:10:36.870Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:10:36.888Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:10:36.893Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:10:44.496Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:10:44.501Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:10:44.523Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:10:44.538Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:11:49.307Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:11:49.311Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:11:49.329Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:11:49.334Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:11:59.741Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:11:59.745Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:11:59.761Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:11:59.766Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:12:15.710Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:12:15.714Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:12:15.731Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:12:15.737Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:12:35.076Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:12:35.079Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:12:35.094Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:12:35.100Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:12:44.916Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:12:44.919Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:12:44.937Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:12:44.943Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:13:07.753Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:13:07.757Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:13:07.785Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:13:07.794Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:15:02.428Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:15:02.432Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:15:02.448Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:15:02.457Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:15:12.086Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:15:12.089Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:15:12.114Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:15:12.120Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:17:00.076Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:17:00.080Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:17:00.099Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:17:00.106Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:17:30.906Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:17:30.910Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:17:30.923Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:17:30.928Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:17:49.450Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:17:49.453Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:17:49.470Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:17:49.475Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:18:27.102Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:18:27.106Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:18:27.123Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:18:27.129Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:18:59.909Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:18:59.913Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:18:59.930Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:18:59.938Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:19:16.979Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:19:16.983Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:19:17.006Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:19:17.014Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:31:31.266Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:31:31.269Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:31:31.289Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:31:31.295Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:33:08.119Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:33:08.123Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:33:08.141Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:33:08.149Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:33:23.529Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:33:23.532Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:33:23.546Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:33:23.551Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:46:09.915Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:46:09.919Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:46:09.935Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:46:09.942Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:48:38.593Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:48:38.596Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:48:38.611Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:48:38.616Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:50:55.964Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:50:55.968Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:50:55.985Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:50:56.026Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:51:10.291Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:51:10.295Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:51:10.312Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:51:10.320Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:51:28.322Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:51:28.326Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:51:28.344Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:51:28.351Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:51:34.663Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:51:34.668Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:51:34.683Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:51:34.688Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:52:27.453Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:52:27.457Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:52:27.471Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:52:27.478Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:52:39.135Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:52:39.139Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:52:39.158Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:52:39.164Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:54:53.577Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:54:53.581Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:54:53.600Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:54:53.607Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:55:19.406Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:55:19.412Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:55:19.430Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:55:19.437Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:58:07.519Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:58:07.523Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:58:07.539Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:58:07.545Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T09:58:32.174Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T09:58:32.178Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T09:58:32.202Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T09:58:32.208Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:00:08.683Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:00:08.689Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:00:08.709Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:00:08.715Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:00:36.107Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:00:36.111Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:00:36.128Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:00:36.134Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:00:41.933Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:00:41.937Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:00:41.956Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:00:41.963Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:01:01.340Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:01:01.345Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:01:01.364Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:01:01.369Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:01:06.884Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:01:06.888Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:01:06.903Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:01:06.913Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:01:34.983Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:01:34.987Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:01:35.006Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:01:35.012Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:01:46.398Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:01:46.403Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:01:46.419Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:01:46.425Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:01:59.985Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:01:59.989Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:02:00.007Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:02:00.015Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:02:38.228Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:02:38.231Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:02:38.245Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:02:38.252Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:03:47.342Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:03:47.346Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:03:47.365Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:03:47.380Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:05:10.736Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:05:10.739Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:05:10.755Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:05:10.762Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:06:47.755Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:06:47.759Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:06:47.775Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:06:47.782Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:08:09.729Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:08:09.732Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:08:09.753Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:08:09.762Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:08:26.112Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:08:26.116Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:08:26.132Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:08:26.141Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:08:33.690Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:08:33.694Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:08:33.714Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:08:33.721Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-28T10:08:44.410Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-28T10:08:44.415Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-28T10:08:44.432Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-28T10:08:44.439Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-29T05:43:46.185Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-29T05:43:46.189Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-29T05:43:46.215Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-29T05:43:46.221Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-29T05:47:51.921Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-29T05:47:51.925Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-29T05:47:51.940Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-29T05:47:51.946Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:25:26.136Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:25:26.142Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:25:26.176Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:27:14.179Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:27:14.182Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:27:14.199Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:27:57.810Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:27:57.815Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:27:57.834Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:28:11.162Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:28:11.166Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:28:11.188Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:28:48.084Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:28:48.089Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:28:48.111Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:31:11.738Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:31:11.742Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:31:11.760Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:31:20.437Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:31:20.441Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:31:20.461Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:32:10.795Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:32:10.799Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:32:10.816Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:32:27.563Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:32:27.566Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:32:27.587Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:32:38.049Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:32:38.054Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:32:38.073Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:33:05.423Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:33:05.428Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:33:05.451Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:33:56.398Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:33:56.402Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:33:56.417Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:36:02.926Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:36:02.929Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:36:02.945Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:36:24.789Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:36:24.792Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:36:24.809Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:37:03.970Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:37:03.973Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:37:03.991Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:37:15.436Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:37:15.439Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:37:15.453Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:42:52.111Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:42:52.114Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:42:52.130Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:43:29.509Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:43:29.514Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:43:29.531Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T06:57:04.311Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T06:57:04.315Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T06:57:04.332Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T08:56:18.100Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T08:56:18.103Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T08:56:18.123Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T08:56:18.128Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:00:28.993Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:00:28.998Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:00:29.017Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:00:29.023Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:00:36.858Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:00:36.862Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:00:36.874Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:00:36.879Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:04:50.803Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:04:50.806Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:04:50.822Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:04:50.826Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:04:58.434Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:04:58.438Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:04:58.453Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:04:58.461Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:07:06.212Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:07:06.216Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:07:06.229Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:07:06.236Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:07:33.284Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:07:33.289Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:07:33.303Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:07:33.307Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:07:37.584Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:07:37.588Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:07:37.603Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:07:37.608Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:09:08.852Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:09:08.856Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:09:08.870Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:09:08.875Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:10:06.383Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:10:06.386Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:10:06.405Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:10:06.411Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:10:35.359Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:10:35.363Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:10:35.381Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:10:35.389Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:11:53.121Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:11:53.127Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:11:53.140Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:11:53.148Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:12:46.496Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:12:46.500Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:12:46.519Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:12:46.528Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T09:12:50.191Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T09:12:50.196Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T09:12:50.214Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T09:12:50.220Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T10:41:06.207Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T10:41:06.212Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T10:41:06.237Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T10:41:06.248Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T10:49:26.968Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T10:49:26.973Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T10:49:26.994Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T10:49:27.002Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T10:51:46.573Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T10:51:46.577Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T10:51:46.596Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T10:51:46.602Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T10:53:16.564Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T10:53:16.569Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T10:53:16.586Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T10:53:16.592Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:54:20.690Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:54:20.696Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:54:20.716Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:55:08.083Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:55:08.086Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:55:08.103Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:56:13.756Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:56:13.759Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T15:56:13.774Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:56:13.780Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:57:12.852Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:57:12.856Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T15:57:12.873Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:57:12.881Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:59:19.392Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:59:19.397Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T15:59:19.418Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:59:19.424Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:59:35.323Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:59:35.326Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T15:59:35.342Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:59:35.352Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T15:59:56.831Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T15:59:56.835Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T15:59:56.866Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T15:59:56.876Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:01:45.617Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:01:45.621Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:01:45.637Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:01:45.642Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:01:53.950Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:01:53.953Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:01:53.966Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:01:53.973Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:02:01.564Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:02:01.567Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:02:01.581Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:02:01.586Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:02:34.225Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:02:34.229Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:02:34.244Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:02:34.248Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:04:09.525Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:04:09.528Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:04:09.543Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:04:09.549Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:04:16.807Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:04:16.810Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:04:16.824Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:04:16.830Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:05:04.322Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:05:04.326Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:05:04.340Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:05:04.348Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:05:16.055Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:05:16.058Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:05:16.076Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:05:16.081Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-30T16:05:34.159Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-30T16:05:34.163Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-30T16:05:34.175Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-30T16:05:34.182Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-31T11:57:45.650Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-31T11:57:45.654Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-31T11:57:45.679Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-31T11:58:58.082Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-31T11:58:58.093Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-31T11:58:58.136Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-31T11:58:58.144Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-07-31T11:59:53.562Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-07-31T11:59:53.567Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-31T11:59:53.587Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-31T11:59:53.597Z"}
