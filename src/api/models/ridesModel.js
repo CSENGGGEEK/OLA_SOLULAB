@@ -67,36 +67,50 @@ const Rides = mongoose.model('rides', userSchema);
 
 class RidesModel{
 
-    async createRide(customer,startLocation,endLocation){
+    async createRide(customer, startLocation, endLocation,capacity) {
         try {
-
+            // Retrieve available drivers based on the start location
+            const driversAvailable = await UserModel.getDrivers(startLocation,capacity);
+    
+            if (driversAvailable.length === 0) {
+                
+                return { type: 'NoDriversAvailableError', message: 'No drivers available at the moment.' };
+            }
+    
             
-            
-
-            const driversAvailable = UserModel.getDrivers(startLocation);
-            
+            const selectedDriver = driversAvailable[0];
+    
+            // Define the ride object
             const rideObj = {
                 customer: customer,
                 startLocation: startLocation,
                 endLocation: endLocation,
-                startTime: startTime,
-                endTime: endTime,
-                fare: fare,
+                driver: selectedDriver._id,  
+                startTime: new Date(),       
+                endTime: null,               
+                fare: 0,                     
             };
-
-            // await ridesSchemaValidator.validateAsync(rideObj);
-            // const model = new Rides(rideObj);
-            // model.save()
-
-            // return rideObj;
-
+    
+            // Validate the ride object (uncomment when you have a validator)
+            await ridesSchemaValidator.validateAsync(rideObj);
+    
+            // Save the ride record in the database
+            const model = new Rides(rideObj);
+            await model.save();
+    
+            // Update the selected driver's availability
+            await UserModel.updateDriverAvailability(selectedDriver._id, false); // Assuming `false` means unavailable
+    
+            return rideObj;
+    
         } catch (error) {
             if (error.code === 11000) {
-                return { type: 'DuplicateKeyError', message: '' };
+                return { type: 'DuplicateKeyError', message: 'Duplicate key error.' };
             }
             return { type: error.name || 'ValidationError', message: error.message || 'An error occurred' };
         }
     }
+    
 }
 
 module.exports = new RidesModel();
