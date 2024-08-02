@@ -103,5 +103,37 @@ vehicleRouter.delete('/delete-vehicle',adminAuthorize,async (req,res)=>{
 });
 
 
+vehicleRouter.post('/revoke-driver', adminAuthorize, async (req, res) => {
+    try {
+        const { vin } = req.body;
+        
+        if (!vin) {
+            return res.status(400).json({ message: 'VIN is required' });
+        }
+
+
+        const vehicle = await VehicleModel.findOne({ vin });
+        if (!vehicle) {
+            return res.status(404).json({ message: 'No vehicle found with the provided VIN' });
+        }
+
+
+        if (!vehicle.driver) {
+            return res.status(400).json({ message: 'No driver is currently assigned to this vehicle' });
+        }
+
+
+        vehicle.driver = null;
+        const updatedVehicle = await vehicle.save();
+
+
+        res.status(200).json({ message: 'Driver revoked successfully', vehicle: updatedVehicle });
+
+    } catch (error) {
+
+        console.error(error);
+        res.status(500).json({ message: 'An error occurred while revoking the driver', error: error.message });
+    }
+});
 
 module.exports = vehicleRouter;
