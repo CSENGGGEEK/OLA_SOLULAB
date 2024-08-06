@@ -79,7 +79,7 @@ vehicleRouter.post('/assign-driver', adminAuthorize, async (req, res) => {
 
 
 
-vehicleRouter.delete('/delete-vehicle',adminAuthorize,async (req,res)=>{
+vehicleRouter.delete('/delete',adminAuthorize,async (req,res)=>{
 
     try {
         
