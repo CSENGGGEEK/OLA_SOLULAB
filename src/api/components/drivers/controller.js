@@ -1,6 +1,6 @@
 const express = require('express');
 const driverRouter = express.Router();
-const RideModel = require('../models/RideModel');
+const RideModel = require('../../models/ridesModel');
 const UserModel = require('../../models/userModel'); 
 const {driverAuthorize} = require('../../middleware/authMiddleware'); 
 

@@ -1278,3 +1278,28 @@
 {"level":"info","message":"Server is running on 3000","timestamp":"2024-07-31T11:59:53.567Z"}
 {"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-07-31T11:59:53.587Z"}
 {"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-07-31T11:59:53.597Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:26:13.448Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:26:13.453Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:26:13.478Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:30:08.304Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:30:08.307Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:30:08.321Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:30:30.931Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:30:30.934Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:30:30.950Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:30:37.295Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:30:37.298Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:30:37.313Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:31:16.347Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:31:16.350Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:31:16.367Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:32:04.130Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:32:04.134Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:32:04.154Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:33:13.089Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:33:13.123Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:33:13.138Z"}
+{"level":"info","message":"Redis connection is setup successfully","timestamp":"2024-08-07T09:33:14.185Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-08-07T09:33:38.696Z"}
+{"level":"info","message":"Server is running on 3000","timestamp":"2024-08-07T09:33:38.700Z"}
+{"level":"info","message":"Mongoose connection open to master DB","timestamp":"2024-08-07T09:33:38.712Z"}

@@ -1,7 +1,7 @@
 const {createClient} = require('redis');
 const Config = require('./config/config');
 
-const client = createClient();
+const client = createClient({url:"redis://red-cqpjrojv2p9s73cdokc0:6379"});
 
 
 
